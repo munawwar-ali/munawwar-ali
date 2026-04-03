@@ -20,17 +20,16 @@
   <a href="https://github.com/munawwar-ali">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
 
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/munawwar-ali-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/munawwar-ali-developer/" height="30" width="40" /></a>
+</p>
 ---
 
 ## 🛠️ Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql,python,ts,html,css,git,docker,nginx,aws,bootstrap,bash" />
 </p>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/munawwar-ali-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/munawwar-ali-developer/" height="30" width="40" /></a>
-</p>
+
 
 ---
 
