@@ -14,7 +14,7 @@
 
 ![BCA](https://img.shields.io/badge/BCA-Rajju%20Bhaiya%20University-6D28D9?style=flat-square&logo=graduation-cap&logoColor=white)
 &nbsp;
-![Location](https://img.shields.io/badge/📍-Prayagraj%2C%20India-7C3AED?style=flat-square)
+![Location](https://img.shields.io/badge/📍-India-7C3AED?style=flat-square)
 &nbsp;
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-10B981?style=flat-square&logo=checkmarx&logoColor=white)
 
@@ -32,8 +32,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=munawwar-ali&color=6D28D9&style=flat-square&label=Profile+Views)
-&nbsp;
 ![Followers](https://img.shields.io/github/followers/munawwar-ali?style=flat-square&color=7C3AED&label=Followers)
 &nbsp;
 ![Stars](https://img.shields.io/github/stars/munawwar-ali?style=flat-square&color=8B5CF6&label=Total+Stars)
