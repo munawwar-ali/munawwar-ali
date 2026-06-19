@@ -22,8 +22,6 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-billing--dashboard-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://billing-dashboard-n4j6.vercel.app/)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-munawwar--ali--developer-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/munawwar-ali-developer/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-munawwardeveloper%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munawwardeveloper@gmail.com)
