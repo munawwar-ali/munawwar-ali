@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![BCA](https://img.shields.io/badge/BCA-Rajju%20Bhaiya%20University-6D28D9?style=flat-square&logo=graduation-cap&logoColor=white)
+![BCA](https://img.shields.io/badge/BCA-Prof.Rajendra%20Singh%20University-6D28D9?style=flat-square&logo=graduation-cap&logoColor=white)
 &nbsp;
 ![Location](https://img.shields.io/badge/📍-India-7C3AED?style=flat-square)
 &nbsp;
